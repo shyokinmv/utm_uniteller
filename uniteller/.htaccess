@@ -1,0 +1,14 @@
+order deny,allow
+allow from 79.142.16.0/20
+allow from 10.10.0.0/16
+allow from 10.54.0.0/16
+allow from 10.78.0.0/16
+allow from 10.79.124.0/20
+allow from 94.228.203.0/24
+allow from 176.124.144.0/22
+allow from 213.208.167.51/32
+allow from 213.208.182.174/32
+allow from 213.208.182.173/32
+allow from 213.208.182.172/32
+deny from all
+
